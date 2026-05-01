@@ -1,0 +1,24 @@
+# 用户注册行为分析项目依赖包
+# Python版本: 3.8+
+
+# 数据处理和分析
+pandas : 2.0.3
+numpy : 1.24.4
+
+# 数据库连接
+pymysql : 1.1.2
+
+
+# 数据可视化
+matplotlib : 3.7.5
+
+
+# Jupyter Notebook（可选）
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# 开发工具
+PyCharm
+
+# 其他工具
+python-dateutil>=2.8.0  # 日期处理

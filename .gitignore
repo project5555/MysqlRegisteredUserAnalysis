@@ -1,0 +1,101 @@
+# Python编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 数据文件（大文件不要上传到GitHub）
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.parquet
+*.feather
+
+# 环境变量和配置文件
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+config.ini
+config.py
+settings.py
+
+# 日志文件
+*.log
+logs/
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 测试相关
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# 文档生成
+docs/_build/
+site/
+
+# 临时文件
+*.tmp
+*.bak
+*.backup
+
+# 图片输出（如果需要上传，请注释掉）
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+
+# 报告文件（可选）
+# reports/*.pdf
+# reports/*.html
+
+# 数据库备份
+*.sql.bak
+*.dump
