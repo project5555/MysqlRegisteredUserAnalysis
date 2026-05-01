@@ -76,7 +76,7 @@ user-registration-analysis/
 - **百度网盘**: [点击下载](https://pan.baidu.com/s/你的链接)  提取码: xxxx
 
 ### 数据说明
-- **文件名**: user.sql, user1111.xlsx
+- **文件名**: user1111.xlsx
 - **文件大小**: 约 30MB
 - **下载后**: 将文件放在 `data/` 目录下
 
