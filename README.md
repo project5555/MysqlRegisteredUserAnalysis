@@ -73,7 +73,9 @@ user-registration-analysis/
 由于数据文件较大，未包含在GitHub仓库中，请从以下链接下载：
 
 ### 数据集下载
-- **百度网盘**: [点击下载](https://pan.baidu.com/s/你的链接)  提取码: xxxx
+- **百度网盘**: 通过网盘分享的文件：user.sql
+  链接: https://pan.baidu.com/s/1C8tjpniLqeXnNfeGFAuEVQ?pwd=egim 提取码: egim 
+  --来自百度网盘超级会员v6的分享
 
 ### 数据说明
 - **文件名**: user1111.xlsx
